@@ -25,13 +25,13 @@ url:       		    http://www.allluckly.cn
 owner:
   name:           Bison
   avatar:         100.png
-  email:          ljobvip@163.com
+  email:          
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    静态库般Man
   # Social networking links used in footer. Update and remove as you like.
   twitter:        lbjobvip
   facebook:       lbjobvip
-  github:         
+  github:         Allluckly
   stackexchange:  #http://stackoverflow.com/users/904698/carina
   linkedin:       #http://blog.csdn.net/yiyaaixuexi
   instagram:      
