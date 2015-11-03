@@ -1,9 +1,9 @@
 title:            iOS开发
 description:      "Going against the wind is more suitable for flying"
-logo:             
-disqus_shortname: nianxinet
+logo:             omikron.png
+disqus_shortname: tobison
 # Assign a default image for your site's header and footer
-default_bg:       default_bg.jpg
+default_bg:       BG1.jpg
 search:           true
 share:            true
 # Read Time is a calculator tp provide post read-time based on word count. Usage is recommended.
@@ -24,16 +24,16 @@ url:       		    http://www.allluckly.cn
 # Owner/author information
 owner:
   name:           Bison
-  avatar:         avatar.png
-  email:          yiyaaixuexi@gmail.com
+  avatar:         100.png
+  email:          lbjobvip@163.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    静态库般Man
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        CarinaTiantian
-  facebook:       
+  twitter:        lbjobvip
+  facebook:       lbjobvip
   github:         
-  stackexchange:  http://stackoverflow.com/users/904698/carina
-  linkedin:       http://blog.csdn.net/yiyaaixuexi
+  stackexchange:  #http://stackoverflow.com/users/904698/carina
+  linkedin:       #http://blog.csdn.net/yiyaaixuexi
   instagram:      
   flickr:
   tumblr:
@@ -60,14 +60,14 @@ links:
   - title: Tags
     url: /tags
   - title: About
-    url: /nianxi
+    url: /about
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    PRC
 future:      true
 highlighter: pygments
 markdown:    kramdown
-paginate:    3
+paginate:    4
 paginate_path: "page:num"
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
